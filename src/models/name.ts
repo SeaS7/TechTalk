@@ -1,0 +1,6 @@
+export const db = "main-TechTalk"
+export const questionCollection = "questions"
+export const answerCollection = "answers"
+export const commentCollection = "comments"
+export const questionAttachmentBucket = "question-attachments"
+export const voteCollection = "votes"
